@@ -1,0 +1,7 @@
+FEAUTURE EXTRACTION:
+1.Communication
+2.Behaviour
+3.Technology
+4.Collaboration
+5.Accuracy
+6.Security  

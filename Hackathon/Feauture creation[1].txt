@@ -1,0 +1,63 @@
+FEAUTURES CREATION:
+
+1.Communication(10) [about bank,rules and regulations]
+       
+2.Technology(5) [based on apps,websites,systems]        
+
+3.Behaviour(10) [the way employee receives the customer]
+
+4.Accuracy(100) [accuracy of the information given by the employee]
+
+5.Knowledge(100) [grip in the aspects of the bank that must given to customer]
+
+6.Reviews(5) [taking the feedback from the customer regularly can help the bank to know what are they lack off]
+
+7.Clarity(5) [the information needed by the customer given clearly and efficiently]
+
+8.Listening(5) [listening to customer with patience]
+
+9.Success rate(100) [the success rate will let the people to come to their bank]
+
+10.Honesty(5) [honesty of the employee in speaking]
+
+11.Social media(5) [playing an active role in social media also helps the bank to get suceed]
+
+12.Support(100) [support to the customer provided by the bank] 
+
+13.Information(100)[facts must be provided  to the customer]
+
+14.Experience(100) [experience of the employee affect the progress of the bank]
+
+15.Convenience(5) [the atmosphere must be convenient to the customer]
+
+16.Efficiency(5) [the performance of the employee]
+
+17.Liability(5) [being legal]
+
+18.Transperency(5) [the employee must understand customer] 
+
+19.Security(100) [the details provided by the customer should be secured]
+
+20.Fairness(5) [the employee should be impartial]
+
+21.Collaboration(100) [the collaborations must be done in an efficient way]
+
+22.Proofs(50) [the evidence must be taken by the employee for the sake of the bank]
+
+23.Options (10) [the customer must choose the things as he wishes and then the bank decides the scope validity of the choosed option]
+
+24.Empathy(5) [understanding the customer feelings]
+
+25.Genuine(100) [the genuinity of the employee mustbe seen]
+
+26.Trust(100) [the employee should be in such a way that the customer can trust him]
+
+27.Fast Response(10) [the response to the customer should be fast]
+
+28.Respect(50) [the employee must be sure in case of respect and the customer also give the respect to the employee]
+
+29.Conditions(50) [the terma and conditions mentioned are clear and perfect]
+
+30.Alternative options(5) 
+[the customer must get alternative options in case he failed to get his need]
+
